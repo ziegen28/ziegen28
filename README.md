@@ -44,18 +44,25 @@ Strong in Python, SQL, analytics, and end-to-end AI system development.
 
 ### **Programming**
 `Python` • `HTML` • `CSS`
+
 ### **Databases**
 `Oracle` • `Neo4j` • `MySQL` • `Vector DBs`
+
 ### **Tools**
 `Git` • `GitHub` • `VS Code` • `Tableau` • `Power BI` • `Excel` • `Cursor AI`
+
 ### **Frameworks & Libraries**
 `Pandas` • `NumPy` • `Scikit-learn` • `OpenCV` •  
 `LangChain` • `LangSmith` • `Langfuse`
+
 ### **API & Agents**
 `FastAPI` • `MCP`
+
 ### **Concepts**
 `EDA` • `Machine Learning` • `Deep Learning` •  
 `Generative AI` • `Data Science` • `Analytics`
+
+---
 
 ## 🔧 Languages & Tools (Icons)
 
