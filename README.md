@@ -1,136 +1,315 @@
-<!-- Profile Header Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ziegen)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/resume.pdf)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:ziegenbalgbenjamin2004@gmail.com)
+<!-- ================= HEADER ================= -->
 
----
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner"/>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/avatar.png" width="150" style="border-radius:50%" />
+<h1 align="center">Hi 👋, I'm Ziegen Balg Benjamin J</h1>
 
-  <h1>Hi there! 👋 I'm <b>Ziegen Balg Benjamin J</b></h1>
-  <h3>AI & Data Science Engineer • AI/ML Developer • Knowledge Graph & RAG Engineer</h3>
+<h3 align="center">
+AI Engineer • Backend Developer • Generative AI Enthusiast
+</h3>
 
-  <p>
-    <a href="mailto:ziegenbalgbenjamin2004@gmail.com">Email</a> •
-    <a href="https://linkedin.com/in/ziegen">LinkedIn</a> •
-    <a href="tel:8925494954">Phone</a>
-  </p>
-</div>
+<p align="center">
+Building intelligent systems with AI, scalable backend architectures, and modern cloud technologies.
+</p>
 
----
+<p align="center">
 
-## 🧠 Executive Summary  
-B.Tech graduate in **Artificial Intelligence and Data Science** with hands-on experience in  
-**AI/ML, Deep Learning, Generative AI, LangChain, Neo4j, FastAPI, and RAG systems**.  
-Skilled in building scalable AI pipelines, knowledge graphs, and LLM-based applications.  
-Strong in Python, SQL, analytics, and end-to-end AI system development.
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="mailto:ziegenbalgbenjamin2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 💼 Experience
+<a href="resume.pdf">
+<img src="https://img.shields.io/badge/Resume-Download-red?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
 
-### **HTC Global Services — Data & AI Intern**  
-📅 *April 2025 – July 2025*  
-- Developed complete **RAG pipelines** using **LangChain & OpenAI**, integrated with **LangSmith**  
-- Built **Neo4j knowledge graphs** from relational data using **Runway + OpenAI Discovery**  
-- Designed **3 FastAPI endpoints**: document upload, LLM querying & metrics (cost, tokens, latency)  
-- Integrated **Langfuse** for full observability across QA workflows & MCP tools  
-- Created **Graph-based Q&A pipelines** using **LangGraph**, including Text-to-Cypher and validation  
-
----
-
-## 🛠️ Skills  
-
-### **Programming**
-`Python` • `HTML` • `CSS`
-
-### **Databases**
-`Oracle` • `Neo4j` • `MySQL` • `Vector DBs`
-
-### **Tools**
-`Git` • `GitHub` • `VS Code` • `Tableau` • `Power BI` • `Excel` • `Cursor AI`
-
-### **Frameworks & Libraries**
-`Pandas` • `NumPy` • `Scikit-learn` • `OpenCV` •  
-`LangChain` • `LangSmith` • `Langfuse`
-
-### **API & Agents**
-`FastAPI` • `MCP`
-
-### **Concepts**
-`EDA` • `Machine Learning` • `Deep Learning` •  
-`Generative AI` • `Data Science` • `Analytics`
-
----
-
-## 🔧 Languages & Tools (Icons)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-### 🔹 **Secure Visage – Real-Time Crime Prediction (ResNet, TensorFlow)**
-- Built a **real-time facial recognition** + **criminal detection** system  
-- Used **ResNet embeddings**, **Haar Cascade**, and **live webcam feeds**  
+🎓 B.Tech Graduate in Artificial Intelligence & Data Science
 
-### 🔹 **Unified AI Agent Platform (RAG + FastAPI + Langfuse)**
-- End-to-end **RAG pipeline** with FastAPI  
-- 40% faster responses with better context handling  
-- Integrated analytics & Langfuse observability  
+💼 Software Engineer passionate about
 
-### 🔹 **LLM Knowledge Graph Chatbot (Neo4j + LangGraph)**
-- Built a **Neo4j knowledge graph** from multiple CSVs  
-- Implemented an **LLM-driven Cypher chatbot** using LangGraph  
+- Artificial Intelligence
+- Backend Development
+- Large Language Models
+- Knowledge Graphs
+- Distributed Systems
+- System Design
 
-### 🔹 **Disease Prediction Model**
-- ML model predicting diseases using **Scikit-learn & Pandas**  
-- Supports early diagnosis and clinical decision-making  
+Currently exploring
 
----
-
-## 🎓 Education
-
-### **B.Tech – Artificial Intelligence & Data Science**  
-Jeppiaar Engineering College — *CGPA: 8.5* (2021–2025)
-
-### **Higher Secondary (12th)**  
-St. Joseph Academy — *89%*
-
-### **10th Standard**  
-John Britto Matriculation — *86%*
+- Laravel Architecture
+- PHP Best Practices
+- Docker
+- ClickHouse
+- AI Agents
+- MCP
+- RAG
+- LangGraph
+- Scalable Backend Systems
 
 ---
 
-## 📜 Certifications
-- Google Data Analytics – Coursera  
-- Python Certification – Imarticus  
-- Generative AI Fundamentals – Databricks  
-- Deep Learning – Udemy  
+# 🚀 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js"/>
+
+</p>
 
 ---
 
-## 📊 GitHub Analytics  
+## Backend
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs"/>
+
+</p>
+
+---
+
+## AI / Machine Learning
+
+- LangChain
+- LangGraph
+- LangSmith
+- Langfuse
+- OpenAI
+- HuggingFace
+- RAG
+- Knowledge Graphs
+- Prompt Engineering
+- MCP
 
 ---
 
-## 📫 Contact  
-📧 **Email:** ziegenbalgbenjamin2004@gmail.com  
-📞 **Phone:** 8925494954  
-🔗 **LinkedIn:** https://linkedin.com/in/ziegen  
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+- Neo4j
+- ClickHouse
+- Oracle
+- ChromaDB
+- FAISS
+- Vector Databases
 
 ---
+
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
+
+</p>
+
+Also experienced with
+
+- Docker Compose
+- CI/CD
+- SonarQube
+- PHPUnit
+- REST APIs
+
+---
+
+# 💼 Experience
+
+## HTC Global Services
+
+**AI Intern**
+
+April 2025 – July 2025
+
+### Highlights
+
+✅ Built Retrieval Augmented Generation (RAG) systems
+
+✅ Developed FastAPI services for AI applications
+
+✅ Created Neo4j Knowledge Graphs from relational databases
+
+✅ Integrated LangSmith & Langfuse for observability
+
+✅ Built Graph-based Question Answering using LangGraph
+
+✅ Worked with OpenAI APIs and Vector Databases
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Unified AI Agent Platform
+
+Tech
+
+- FastAPI
+- LangChain
+- LangGraph
+- Langfuse
+- OpenAI
+
+Features
+
+- Document Upload
+- Vector Search
+- AI Chat
+- Cost Monitoring
+- Token Analytics
+
+---
+
+## 🧠 Knowledge Graph Chatbot
+
+Tech
+
+- Neo4j
+- LangGraph
+- OpenAI
+
+Highlights
+
+- CSV → Knowledge Graph
+- Text-to-Cypher
+- Intelligent Query Validation
+- Relationship Discovery
+
+---
+
+## 👮 Secure Visage
+
+Real-Time Criminal Detection System
+
+Stack
+
+- TensorFlow
+- OpenCV
+- ResNet
+- Face Recognition
+
+---
+
+## 🏥 Disease Prediction System
+
+Stack
+
+- Python
+- Scikit-Learn
+- Pandas
+
+Built an ML model for disease prediction using medical datasets.
+
+---
+
+# 🌱 Currently Learning
+
+- Laravel Advanced Architecture
+- System Design
+- Event Driven Architecture
+- Microservices
+- Kubernetes
+- AI Agents
+- MCP
+- LLM Fine-Tuning
+- Cloud Deployment
+
+---
+
+# 📜 Certifications
+
+- Google Data Analytics
+- Databricks Generative AI Fundamentals
+- Python Programming
+- Deep Learning
+
+---
+
+# 🎓 Education
+
+**B.Tech**
+
+Artificial Intelligence & Data Science
+
+Jeppiaar Engineering College
+
+CGPA **8.5**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+ziegenbalgbenjamin2004@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/YOUR_LINKEDIN
+
+💻 **GitHub**
+
+https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
